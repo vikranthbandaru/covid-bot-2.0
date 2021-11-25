@@ -1,1 +1,1 @@
-"# covid-bot-2.0" 
+# covid-bot-2.0
